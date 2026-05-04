@@ -122,7 +122,9 @@ Json.Document([Binary])
 ---
 
 ## 📸 Project Preview
-![Project Screenshot](YOUR_IMAGE_LINK_HERE)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GADEKAR328/Append-Excel-File-from-Gmail-Project/f9d55f972b7118463ed6bdc78615ee03da228197/Append%20Gmail%20To%20Excel%20.jpg" width="900"/>
+</p>
 
 ---
 
