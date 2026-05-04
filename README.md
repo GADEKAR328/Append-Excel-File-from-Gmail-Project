@@ -130,7 +130,7 @@ Json.Document([Binary])
 
 ## 🔗 Important Links
 - Google Apps Script: https://script.google.com
-- Project Guide Script: (Add your script link here)
+- Project Guide Script: https://script.google.com/d/1hF3JEE5uHwV4eDAQogA4NFI7y98Nv3lXhqTeM0GxfzKFNYniT6k8EGnB/edit?usp=sharing
 - GitHub Repository: https://github.com/GADEKAR328
 
 ---
